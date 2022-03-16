@@ -1,0 +1,31 @@
+*
+{
+    text-align:center;
+    background-color: #F25A29;   
+}
+
+img
+{
+    width: 100px;
+    height: 100px;
+}
+
+p
+{
+    color: white;
+}
+
+.raffine_mention
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+footer
+{
+    font-weight: bold;
+}
+
+.raffine_mention
+{
+    text-decoration: underline;
+}
