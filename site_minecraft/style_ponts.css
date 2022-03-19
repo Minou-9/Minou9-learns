@@ -1,0 +1,40 @@
+*
+{
+    text-align: center;
+}
+
+body
+{
+    background: linear-gradient(to right, #febd17, #f53d5e);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+a:visited
+{
+    color: black;
+}
+
+a:hover
+{
+    color: darkblue;
+    font-weight: bold;
+}
+
+footer
+{
+    margin-top: 75px;
+}
+
+img
+{
+    max-width: 90%;
+    max-height: 300px;
+}
+
+article
+{
+    margin-top: 75px;
+    margin-bottom: 75px;
+}
