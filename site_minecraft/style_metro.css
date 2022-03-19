@@ -17,3 +17,8 @@ a:hover
     font-weight: bold;
 }
 
+img
+{
+    max-height: 100px;
+    max-width: 150px;
+}
